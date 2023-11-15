@@ -1,0 +1,1 @@
+$ python train.py -g 0 --num_epochs 1000
